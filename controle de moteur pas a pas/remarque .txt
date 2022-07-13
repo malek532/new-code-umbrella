@@ -1,0 +1,1 @@
+La logique pour faire marcher le moteur est entièrement contenue dans le contrôleur, libérant l'Arduino (ou autre microcontrôleur ou micro-ordinateur) pour faire d'autres choses.
